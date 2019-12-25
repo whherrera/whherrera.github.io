@@ -2,8 +2,8 @@
   "name": "William Herrera",
   "short_name": "William Herrera",
   "lang": "es-es",
-  "theme_color": "rgb(0, 136, 204)",
-  "background_color": "rgb(0, 136, 204)",
+  "theme_color": "rgb(217, 129, 98)",
+  "background_color": "rgb(217, 129, 98)",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
