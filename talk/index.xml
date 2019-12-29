@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | William Herrera</title>
+    <title>Charlas recientes y próximas | William Herrera</title>
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <description>Charlas recientes y próximas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-es</language><copyright>William Herrera</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/myAvatar.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Charlas recientes y próximas</title>
       <link>/talk/</link>
     </image>
     
