@@ -298,10 +298,10 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
       <guid>/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
+    Haga clic en el botón &lt;em&gt;Diapositivas&lt;/em&gt; arriba para mostrar la función de diapositivas de Markdown de Academic.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Se pueden agregar notas complementarias aquí, incluyendo &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -621,15 +621,15 @@ Three
       <guid>/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+    Haga clic en el botón &lt;em&gt;Citar&lt;/em&gt; arriba para demostrar la función y permitir a los visitantes importar metadatos de publicación en su software de administración de referencia.
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
+    Haga clic en el botón &lt;em&gt;Diapositivas&lt;/em&gt; arriba para mostrar la función de diapositivas de Markdown de Academic.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Se pueden agregar notas complementarias aquí, incluyendo &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -639,6 +639,8 @@ Three
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>
+&lt;script src=&#34;/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/elevate-section-attrs/elevate-section-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
@@ -690,15 +692,15 @@ Figure 1: A fancy pie chart.
       <guid>/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+    Haga clic en el botón &lt;em&gt;Citar&lt;/em&gt; que se encuentra arriba para demostrar la función y permitir a los visitantes importar metadatos de publicación en su software de administración de referencia.
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
+    Haga clic en el botón &lt;em&gt;Diapositivas&lt;/em&gt; arriba para mostrar la función de diapositivas de Markdown de Academic.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Se pueden agregar notas complementarias aquí, incluyendo &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
