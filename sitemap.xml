@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/courses/circuitos/</loc>
+    <lastmod>2020-02-14T09:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/circuitos/guia1/</loc>
+    <lastmod>2020-02-14T09:30:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/robi/guia1/</loc>
     <lastmod>2019-12-25T20:44:00-05:00</lastmod>
   </url>
@@ -10,6 +20,11 @@
   <url>
     <loc>/courses/robi/</loc>
     <lastmod>2019-12-25T20:44:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/circuitos/anexo1/</loc>
+    <lastmod>2020-02-14T09:30:00-05:00</lastmod>
   </url>
   
   <url>
