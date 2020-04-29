@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>William Herrera</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-es</language><copyright>William Herrera</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-es</language><copyright>William Herrera</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/img/myAvatar.png</url>
       <title>William Herrera</title>
@@ -18,7 +18,7 @@
       <pubDate>Fri, 14 Feb 2020 09:30:00 -0500</pubDate>
       <guid>/courses/circuitos/guia1/</guid>
       <description>&lt;p&gt;En esta página se muestra la guía 1 para descargarla o visualizarla según sea el caso.&lt;/p&gt;
-&lt;h2 id=&#34;gua-1&#34;&gt;Guía 1&lt;/h2&gt;
+&lt;h2 id=&#34;guía-1&#34;&gt;Guía 1&lt;/h2&gt;
 &lt;p&gt;Descargue la guía 1 y sigas las indicaciones del docente.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/circuitos/Gu%C3%ADa1_7_v1.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Crocodile Technology: software necesario para la realización de los circuitos.&lt;/p&gt;
@@ -33,11 +33,13 @@
       <pubDate>Wed, 25 Dec 2019 20:44:00 -0500</pubDate>
       <guid>/courses/robi/guia1/</guid>
       <description>&lt;p&gt;En esta página se muestra la guía 1 para descargarla o visualizarla según sea el caso.&lt;/p&gt;
-&lt;h2 id=&#34;gua-1&#34;&gt;Guía 1&lt;/h2&gt;
+&lt;h2 id=&#34;guía-1&#34;&gt;Guía 1&lt;/h2&gt;
 &lt;p&gt;Descargue la guía 1 y sigas las indicaciones del docente.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/robi/Gu%C3%ADa1_6_v2.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;RobiSoft: software necesario para la realización de los diagramas de flujo.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://colsanpedro-my.sharepoint.com/:u:/g/personal/william_herrera_sanpedro_edu_co/Ea_ABfm9yJFKs9dcIgFz5lQB7hhzRXZenjp699PYW0-6WA?e=VrTFBH&#34;&gt;Descargue RobiSoft&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;RobiSoft Offline: software necesario para la realización de los diagramas de flujo sin Robot.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://colsanpedro-my.sharepoint.com/:u:/g/personal/william_herrera_sanpedro_edu_co/EWuQHQu45VFGvmXEPLW3qNQBtcCHgCB0cRTDXLdK336sMQ?e=OP8B8b&#34;&gt;Descargue RobiSoft Online&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -58,7 +60,7 @@
       <link>/courses/robi/anexo1/</link>
       <pubDate>Wed, 25 Dec 2019 20:44:00 -0500</pubDate>
       <guid>/courses/robi/anexo1/</guid>
-      <description>&lt;h2 id=&#34;programacin-de-robi-en-robisoft&#34;&gt;Programación de Robi en RobiSoft&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;programación-de-robi-en-robisoft&#34;&gt;Programación de Robi en RobiSoft&lt;/h2&gt;
 &lt;p&gt;Abra el Anexo en otra ventana y use como guía los videos.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/robi/Anexo1_6_v1.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El siguiente vídeo muestra el algoritmo solución para que Robi siga una línea blanca, será la ayuda para resolver el anexo.&lt;/p&gt;
@@ -79,7 +81,7 @@
       <link>/courses/robi/anexo2/</link>
       <pubDate>Wed, 25 Dec 2019 20:44:00 -0500</pubDate>
       <guid>/courses/robi/anexo2/</guid>
-      <description>&lt;h2 id=&#34;programacin-de-robi-en-robisoft&#34;&gt;Programación de Robi en RobiSoft&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;programación-de-robi-en-robisoft&#34;&gt;Programación de Robi en RobiSoft&lt;/h2&gt;
 &lt;p&gt;Abra el Anexo en otra ventana y use como guía los videos.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/robi/Anexo2_6_v1.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El siguiente vídeo muestra el algoritmo solución para que Robi siga una línea blanca, será la ayuda para resolver el anexo.&lt;/p&gt;
@@ -120,7 +122,7 @@
 &lt;/div&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&#39;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
@@ -135,7 +137,7 @@
       <guid>/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
 &lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
 &lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
 &lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
@@ -299,9 +301,9 @@ Crash --&amp;gt; [*]
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write math example&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write diagram example&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Do something else&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
 &lt;p&gt;Represent your data in tables:&lt;/p&gt;
@@ -393,7 +395,7 @@ date: 2019-09-01
 ---
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&#39;s folder.&lt;/p&gt;
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
 &lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
@@ -483,6 +485,7 @@ Three
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
@@ -516,7 +519,7 @@ Three
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&#39;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
 .reveal section h2,
@@ -576,7 +579,7 @@ Three
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&#39;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;👉 &lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📚 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -585,7 +588,7 @@ Three
 &lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/source_themes&#34;&gt;@source_themes&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💡 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
 &lt;ul&gt;
 &lt;li&gt;☕️ &lt;a href=&#34;https://paypal.me/cushen&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;💵 &lt;a href=&#34;https://www.patreon.com/cushen&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
