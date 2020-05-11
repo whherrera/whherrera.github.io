@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/circuitos/</loc>
+    <loc>/courses/crocodiletechnology/</loc>
     <lastmod>2020-02-14T09:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/circuitos/guia1/</loc>
+    <loc>/courses/crocodiletechnology/guia1/</loc>
     <lastmod>2020-02-14T09:30:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/tinkercad/guia1/</loc>
+    <lastmod>2020-02-14T09:30:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/tinkercad/</loc>
+    <lastmod>2020-02-14T09:30:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,12 +43,12 @@
   </url>
   
   <url>
-    <loc>/courses/circuitos/anexo1/</loc>
+    <loc>/courses/crocodiletechnology/anexo1/</loc>
     <lastmod>2020-02-14T09:30:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/circuitos/anexo1p2/</loc>
+    <loc>/courses/tinkercad/anexo1/</loc>
     <lastmod>2020-02-14T09:30:00-05:00</lastmod>
   </url>
   
@@ -63,7 +73,7 @@
   </url>
   
   <url>
-    <loc>/courses/circuitos/anexo2/</loc>
+    <loc>/courses/crocodiletechnology/anexo2/</loc>
     <lastmod>2020-02-14T09:30:00-05:00</lastmod>
   </url>
   
