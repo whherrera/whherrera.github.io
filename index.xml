@@ -5,39 +5,70 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>William Herrera</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-es</language><copyright>William Herrera</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-es</language><copyright>William Humberto Herrera Rey© 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/myAvatar.png</url>
+      <url>/images/logo_hu0cd2813fb50df44f61fe159932bf0a87_64960_300x300_fit_lanczos_2.png</url>
       <title>William Herrera</title>
       <link>/</link>
     </image>
     
     <item>
       <title>Guía 1</title>
-      <link>/courses/crocodiletechnology/guia1/</link>
+      <link>/courses/crocodile/guia1/</link>
       <pubDate>Fri, 14 Feb 2020 09:30:00 -0500</pubDate>
-      <guid>/courses/crocodiletechnology/guia1/</guid>
+      <guid>/courses/crocodile/guia1/</guid>
       <description>&lt;p&gt;En esta página se muestra la guía 1 para descargarla o visualizarla según sea el caso.&lt;/p&gt;
 &lt;h2 id=&#34;guía-1&#34;&gt;Guía 1&lt;/h2&gt;
 &lt;p&gt;Descargue la guía 1 y sigas las indicaciones del docente.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/circuitos/Gu%C3%ADa1_7_v1.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/circuitos/Gu%C3%ADa1_7_v1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Crocodile Technology: software necesario para la realización de los circuitos.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://colsanpedro-my.sharepoint.com/:u:/g/personal/william_herrera_sanpedro_edu_co/EQKw5NhJVchAqwMYtkePFUIBkeG74sCBIm0Vxp-kNAOtuQ?e=qVNtXU&#34;&gt;Descargue Cocodrile Technology 6.07 Portable&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://colsanpedro-my.sharepoint.com/:u:/g/personal/william_herrera_sanpedro_edu_co/Eb13q61iSqdCubd4AFUhOgMBohmx4nGp_nDK6OQS4Z7rOA?e=kiIytY&#34;&gt;Descargue Crocodile_Clips_v3.5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://colsanpedro-my.sharepoint.com/:u:/g/personal/william_herrera_sanpedro_edu_co/EQKw5NhJVchAqwMYtkePFUIBkeG74sCBIm0Vxp-kNAOtuQ?e=qVNtXU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Descargue Cocodrile Technology 6.07 Portable&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://colsanpedro-my.sharepoint.com/:u:/g/personal/william_herrera_sanpedro_edu_co/Eb13q61iSqdCubd4AFUhOgMBohmx4nGp_nDK6OQS4Z7rOA?e=kiIytY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Descargue Crocodile_Clips_v3.5&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Guía 1</title>
-      <link>/courses/tinkercad/guia1/</link>
+      <title>Guía 2</title>
+      <link>/courses/tinkercad/guia2/</link>
       <pubDate>Fri, 14 Feb 2020 09:30:00 -0500</pubDate>
-      <guid>/courses/tinkercad/guia1/</guid>
-      <description>&lt;p&gt;En esta página se muestra la guía 1 para descargarla o visualizarla según sea el caso.&lt;/p&gt;
-&lt;h2 id=&#34;guía-1&#34;&gt;Guía 1&lt;/h2&gt;
-&lt;p&gt;Descargue la guía 1 y sigas las indicaciones del docente.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.tinkercad.com/&#34;&gt;TinkerCAD&lt;/a&gt;: aplicación necesaria para la realización de los circuitos.&lt;/p&gt;
+      <guid>/courses/tinkercad/guia2/</guid>
+      <description>&lt;p&gt;En esta página se muestra la guía 2 para descargarla o visualizarla según sea el caso.&lt;/p&gt;
+&lt;h2 id=&#34;zona-de-descarga&#34;&gt;Zona de Descarga&lt;/h2&gt;
+&lt;p&gt;Descargue la guía 2 y sigas las indicaciones del docente.Recuerde que la guía está presentada en semanas.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72p-TECNS1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72p-TECNS2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72p-TECNS3.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72p-TECNS4.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72p-TECNS5.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72p-TECNS6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 6&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Guía 3</title>
+      <link>/courses/tinkercad/guia3/</link>
+      <pubDate>Fri, 14 Feb 2020 09:30:00 -0500</pubDate>
+      <guid>/courses/tinkercad/guia3/</guid>
+      <description>&lt;p&gt;En esta página se muestra la guía 3 para descargarla o visualizarla según sea el caso.&lt;/p&gt;
+&lt;h2 id=&#34;zona-de-descarga&#34;&gt;Zona de Descarga&lt;/h2&gt;
+&lt;p&gt;Descargue la guía 3 y sigas las indicaciones del docente.Recuerde que la guía está presentada en semanas.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/73p-TECNS1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 3 Semana 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/73p-TECNS2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 3 Semana 2&lt;/a&gt;&lt;/p&gt;
+&lt;!--[Guía 3 Semana 3](https://whherrera.github.io/courses/tinkercad/73p-TECNS3.pdf)--&gt;
+&lt;!--[Guía 3 Semana 4](https://whherrera.github.io/courses/tinkercad/73p-TECNS4.pdf)--&gt;
+&lt;!--[Guía 3 Semana 5](https://whherrera.github.io/courses/tinkercad/73p-TECNS5.pdf)--&gt;
+&lt;!--[Guía 3 Semana 6](https://whherrera.github.io/courses/tinkercad/73p-TECNS6.pdf)--&gt;</description>
     </item>
     
     <item>
@@ -48,46 +79,60 @@
       <description>&lt;p&gt;En esta página se muestra la guía 1 para descargarla o visualizarla según sea el caso.&lt;/p&gt;
 &lt;h2 id=&#34;guía-1&#34;&gt;Guía 1&lt;/h2&gt;
 &lt;p&gt;Descargue la guía 1 y sigas las indicaciones del docente.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/robi/Gu%C3%ADa1_6_v2.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/robi/Gu%C3%ADa1_6_v2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;RobiSoft: software necesario para la realización de los diagramas de flujo.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://colsanpedro-my.sharepoint.com/:u:/g/personal/william_herrera_sanpedro_edu_co/Ea_ABfm9yJFKs9dcIgFz5lQB7hhzRXZenjp699PYW0-6WA?e=VrTFBH&#34;&gt;Descargue RobiSoft&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;RobiSoft Offline: software necesario para la realización de los diagramas de flujo sin Robot.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://colsanpedro-my.sharepoint.com/:u:/g/personal/william_herrera_sanpedro_edu_co/EWuQHQu45VFGvmXEPLW3qNQBtcCHgCB0cRTDXLdK336sMQ?e=OP8B8b&#34;&gt;Descargue RobiSoft Online&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://colsanpedro-my.sharepoint.com/:u:/g/personal/william_herrera_sanpedro_edu_co/Ea_ABfm9yJFKs9dcIgFz5lQB7hhzRXZenjp699PYW0-6WA?e=VrTFBH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Descargue RobiSoft&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Guía 1</title>
-      <link>/courses/vexcodevr/guia1/</link>
+      <title>Guía 2</title>
+      <link>/courses/vexcodevr/guia2/</link>
       <pubDate>Wed, 25 Dec 2019 20:44:00 -0500</pubDate>
-      <guid>/courses/vexcodevr/guia1/</guid>
-      <description>&lt;p&gt;En esta página se muestra la guía 1 para descargarla o visualizarla según sea el caso.&lt;/p&gt;
-&lt;h2 id=&#34;guía-1&#34;&gt;Guía 1&lt;/h2&gt;
-&lt;p&gt;¡En construcción!&lt;/p&gt;
+      <guid>/courses/vexcodevr/guia2/</guid>
+      <description>&lt;p&gt;En esta página se muestra la guía 2 para descargarla o visualizarla según sea el caso.&lt;/p&gt;
+&lt;h2 id=&#34;zona-de-descarga&#34;&gt;Zona de Descarga&lt;/h2&gt;
+&lt;p&gt;Descargue la guía 2 y sigas las indicaciones del docente.Recuerde que la guía está presentada en semanas.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/62p-TECNS1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/62p-TECNS2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/62p-TECNS3.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/62p-TECNS4.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/62p-TECNS5.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/62p-TECNS6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 6&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anexo 1</title>
-      <link>/courses/crocodiletechnology/anexo1/</link>
+      <link>/courses/crocodile/anexo1/</link>
       <pubDate>Fri, 14 Feb 2020 09:30:00 -0500</pubDate>
-      <guid>/courses/crocodiletechnology/anexo1/</guid>
+      <guid>/courses/crocodile/anexo1/</guid>
       <description>&lt;p&gt;En esta página se muestra el Anexo 1 para descargarlo o visualizarla según sea el caso.&lt;/p&gt;
 &lt;h2 id=&#34;anexo-1&#34;&gt;Anexo 1&lt;/h2&gt;
 &lt;p&gt;Descargue el Anexo 1 y sigas las indicaciones del docente.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/circuitos/Anexo1_7_v1.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/circuitos/Anexo1_7_v1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Anexo 1</title>
-      <link>/courses/tinkercad/anexo1/</link>
+      <title>Guía 2 — Anexo 1</title>
+      <link>/courses/tinkercad/guia2anexo1/</link>
       <pubDate>Fri, 14 Feb 2020 09:30:00 -0500</pubDate>
-      <guid>/courses/tinkercad/anexo1/</guid>
+      <guid>/courses/tinkercad/guia2anexo1/</guid>
       <description>&lt;p&gt;En esta página se muestra el Anexo 1 para descargarlo o visualizarla según sea el caso.&lt;/p&gt;
-&lt;h2 id=&#34;anexo-1&#34;&gt;Anexo 1&lt;/h2&gt;
+&lt;h2 id=&#34;zona-de-descarga&#34;&gt;Zona de Descarga&lt;/h2&gt;
 &lt;p&gt;Descargue el Anexo 1 y sigas las indicaciones del docente.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72pAnexo1TECNV1.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72pAnexo1TECNV1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anexo 1&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -98,28 +143,23 @@
       <guid>/courses/robi/anexo1/</guid>
       <description>&lt;h2 id=&#34;programación-de-robi-en-robisoft&#34;&gt;Programación de Robi en RobiSoft&lt;/h2&gt;
 &lt;p&gt;Abra el Anexo en otra ventana y use como guía los videos.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/robi/Anexo1_6_v1.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/robi/Anexo1_6_v1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El siguiente vídeo muestra el algoritmo solución para que Robi siga una línea blanca, será la ayuda para resolver el anexo.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=jCJGdGXbLTs&#34; title=&#34;&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/jCJGdGXbLTs/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.youtube.com/watch?v=jCJGdGXbLTs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/jCJGdGXbLTs/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El siguiente vídeo muestra el algoritmo solución para que Robi siga una línea negra, será la ayuda para resolver el anexo.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=tZK6oKC647U&#34; title=&#34;&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/tZK6oKC647U/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.youtube.com/watch?v=tZK6oKC647U&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/tZK6oKC647U/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El siguiente vídeo muestra las características a tener en cuenta para que Robi siga una línea negra y esquive un obstáculo, será la ayuda para resolver el anexo.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=tzKI6Q3Hlbg&#34; title=&#34;&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/tzKI6Q3Hlbg/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.youtube.com/watch?v=tzKI6Q3Hlbg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/tzKI6Q3Hlbg/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El siguiente vídeo muestra las características a tener en cuenta para que Robi siga un objeto y esquive un objeto, será la ayuda para resolver el anexo.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=rUCaUQhgtR8&#34; title=&#34;&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/rUCaUQhgtR8/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.youtube.com/watch?v=rUCaUQhgtR8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/rUCaUQhgtR8/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El siguiente vídeo muestra las características a tener en cuenta para que Robi recoja y ubiqué un objeto, será la ayuda para resolver el anexo.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=E8AJCZOAhe0&#34; title=&#34;&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/E8AJCZOAhe0/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Anexo 1 - Taller 1</title>
-      <link>/courses/vexcodevr/anexo1/</link>
-      <pubDate>Wed, 25 Dec 2019 20:44:00 -0500</pubDate>
-      <guid>/courses/vexcodevr/anexo1/</guid>
-      <description>&lt;h2 id=&#34;programación-vexcode-vr&#34;&gt;Programación VEXcode VR&lt;/h2&gt;
-&lt;p&gt;Descargue el Anexo 1- Taller 1 en el siguiente enlace.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/vexcodevr/62p-Anexo1TECNv1.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.youtube.com/watch?v=E8AJCZOAhe0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/E8AJCZOAhe0/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -130,54 +170,97 @@
       <guid>/courses/robi/anexo2/</guid>
       <description>&lt;h2 id=&#34;programación-de-robi-en-robisoft&#34;&gt;Programación de Robi en RobiSoft&lt;/h2&gt;
 &lt;p&gt;Abra el Anexo en otra ventana y use como guía los videos.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/robi/Anexo2_6_v1.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/robi/Anexo2_6_v1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El siguiente vídeo muestra el algoritmo solución para que Robi siga una línea blanca, será la ayuda para resolver el anexo.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=jCJGdGXbLTs&#34; title=&#34;&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/jCJGdGXbLTs/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.youtube.com/watch?v=jCJGdGXbLTs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/jCJGdGXbLTs/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El siguiente vídeo muestra el algoritmo solución para que Robi siga una línea negra, será la ayuda para resolver el anexo.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=tZK6oKC647U&#34; title=&#34;&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/tZK6oKC647U/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.youtube.com/watch?v=tZK6oKC647U&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/tZK6oKC647U/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El siguiente vídeo muestra las características a tener en cuenta para que Robi siga una línea negra y esquive un obstáculo, será la ayuda para resolver el anexo.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=tzKI6Q3Hlbg&#34; title=&#34;&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/tzKI6Q3Hlbg/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.youtube.com/watch?v=tzKI6Q3Hlbg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/tzKI6Q3Hlbg/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El siguiente vídeo muestra las características a tener en cuenta para que Robi siga un objeto y esquive un objeto, será la ayuda para resolver el anexo.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=rUCaUQhgtR8&#34; title=&#34;&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/rUCaUQhgtR8/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.youtube.com/watch?v=rUCaUQhgtR8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/rUCaUQhgtR8/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El siguiente vídeo muestra las características a tener en cuenta para que Robi recoja y ubiqué un objeto, será la ayuda para resolver el anexo.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=E8AJCZOAhe0&#34; title=&#34;&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/E8AJCZOAhe0/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.youtube.com/watch?v=E8AJCZOAhe0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/E8AJCZOAhe0/0.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Anexo1_6_v1.pdf&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Guía 2 — Anexo 1</title>
+      <link>/courses/vexcodevr/guia2anexo1/</link>
+      <pubDate>Wed, 25 Dec 2019 20:44:00 -0500</pubDate>
+      <guid>/courses/vexcodevr/guia2anexo1/</guid>
+      <description>&lt;h2 id=&#34;zona-de-descarga&#34;&gt;Zona de Descarga&lt;/h2&gt;
+&lt;p&gt;Descargue el Anexo 1 y sigas las indicaciones del docente.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/62p-Anexo1TECNv1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taller Aplicación 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/62p-Anexo1TECNv1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taller Aplicación 2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Guía 2 — Anexo 2</title>
+      <link>/courses/vexcodevr/guia2anexo2/</link>
+      <pubDate>Wed, 25 Dec 2019 20:44:00 -0500</pubDate>
+      <guid>/courses/vexcodevr/guia2anexo2/</guid>
+      <description>&lt;h2 id=&#34;zona-de-descarga&#34;&gt;Zona de Descarga&lt;/h2&gt;
+&lt;p&gt;Descargue el Anexo 2 y sigas las indicaciones del docente.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/62p-Anexo2v1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anexo 2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Anexo 2</title>
-      <link>/courses/crocodiletechnology/anexo2/</link>
+      <link>/courses/crocodile/anexo2/</link>
       <pubDate>Fri, 14 Feb 2020 09:30:00 -0500</pubDate>
-      <guid>/courses/crocodiletechnology/anexo2/</guid>
+      <guid>/courses/crocodile/anexo2/</guid>
       <description>&lt;p&gt;En esta página se muestra el Anexo 2 para descargarlo o visualizarla según sea el caso.&lt;/p&gt;
 &lt;h2 id=&#34;anexo-2&#34;&gt;Anexo 2&lt;/h2&gt;
 &lt;p&gt;Descargue el Anexo 1 y sigas las indicaciones del docente.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/circuitos/Anexo2_7_v1.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/circuitos/Anexo2_7_v1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Anexo 2</title>
-      <link>/courses/tinkercad/anexo2/</link>
+      <title>Guía 2 — Anexo 2</title>
+      <link>/courses/tinkercad/guia2anexo2/</link>
       <pubDate>Fri, 14 Feb 2020 09:30:00 -0500</pubDate>
-      <guid>/courses/tinkercad/anexo2/</guid>
+      <guid>/courses/tinkercad/guia2anexo2/</guid>
       <description>&lt;p&gt;En esta página se muestra el Anexo 2 para descargarlo o visualizarla según sea el caso.&lt;/p&gt;
-&lt;h2 id=&#34;anexo-2---taller-1&#34;&gt;Anexo 2 - Taller 1&lt;/h2&gt;
-&lt;p&gt;Descargue el Anexo 1 y sigas las indicaciones del docente.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72pA2T1v1R.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;zona-de-descarga&#34;&gt;Zona de Descarga&lt;/h2&gt;
+&lt;p&gt;Descargue el Anexo 2 y sigas las indicaciones del docente.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72pA2T1v1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taller de Aplicación 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72pA2T2v1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taller de Aplicación 2&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Anexo 1 - Taller 2</title>
-      <link>/courses/vexcodevr/anexo2/</link>
+      <title>Guía 3</title>
+      <link>/courses/vexcodevr/guia3/</link>
       <pubDate>Wed, 25 Dec 2019 20:44:00 -0500</pubDate>
-      <guid>/courses/vexcodevr/anexo2/</guid>
-      <description>&lt;h2 id=&#34;programación-en-vexcode-vr&#34;&gt;Programación en VEXcode VR&lt;/h2&gt;
-&lt;p&gt;Descargue el Anexo 1- Taller 2 en el siguiente enlace.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/vexcodevr/62p-Anexo1T2v1.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>/courses/vexcodevr/guia3/</guid>
+      <description>&lt;p&gt;En esta página se muestra la guía 3 para descargarla o visualizarla según sea el caso.&lt;/p&gt;
+&lt;h2 id=&#34;zona-de-descarga&#34;&gt;Zona de Descarga&lt;/h2&gt;
+&lt;p&gt;Descargue la guía 2 y sigas las indicaciones del docente.Recuerde que la guía está presentada en semanas.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/63p-TECNS1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 3 Semana 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/63p-TECNS2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 3 Semana 2&lt;/a&gt;&lt;/p&gt;
+&lt;!--[Guía 3 Semana 3](https://whherrera.github.io/courses/tinkercad/63p-TECNS3.pdf)--&gt;
+&lt;!--[Guía 3 Semana 4](https://whherrera.github.io/courses/tinkercad/63p-TECNS4.pdf)--&gt;
+&lt;!--[Guía 3 Semana 5](https://whherrera.github.io/courses/tinkercad/63p-TECNS5.pdf)--&gt;
+&lt;!--[Guía 3 Semana 6](https://whherrera.github.io/courses/tinkercad/63p-TECNS6.pdf)--&gt;</description>
     </item>
     
     <item>
@@ -192,228 +275,13 @@
 &lt;/div&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Writing technical content in Academic</title>
-      <link>/post/writing-technical-content/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/writing-technical-content/</guid>
-      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
-&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
-\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
-{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\&lt;/code&gt; math linebreak:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\
-1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \&lt;br&gt;
-1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
-&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
-&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-class Class10 {
-  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
-  int id
-  size()
-}
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-class Class10 {
-  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
-  int id
-  size()
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
-&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
-&lt;p&gt;Represent your data in tables:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;First Header&lt;/th&gt;
-&lt;th&gt;Second Header&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
-&lt;p&gt;Academic supports a &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34;&gt;shortcode for asides&lt;/a&gt;, also referred to as &lt;em&gt;notices&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% alert note %}} ... {{% /alert %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% alert note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /alert %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
 </description>
     </item>
     
@@ -424,64 +292,23 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
       <guid>/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Haga clic en el botón &lt;em&gt;Diapositivas&lt;/em&gt; arriba para mostrar la función de diapositivas de Markdown de Academic.
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Se pueden agregar notas complementarias aquí, incluyendo &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-jupyter lab index.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;---
-title: My post&#39;s title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>/slides/carrousel/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>/slides/carrousel/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
@@ -501,7 +328,8 @@ date: 2019-09-01
 &lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
@@ -599,145 +427,66 @@ Three
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://spectrum.chat/academic&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
+      <title>Política de Privacidad</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;El presente Política de Privacidad establece los términos en que William Herrera usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su sitio web. Esta compañía está comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.&lt;/p&gt;
+&lt;h2 id=&#34;información-que-es-recogida&#34;&gt;Información que es recogida&lt;/h2&gt;
+&lt;p&gt;Nuestro sitio web podrá recoger información personal por ejemplo: Nombre,  información de contacto como  su dirección de correo electrónica e información demográfica. Así mismo cuando sea necesario podrá ser requerida información específica para procesar algún pedido o realizar una entrega o facturación.&lt;/p&gt;
+&lt;h2 id=&#34;uso-de-la-información-recogida&#34;&gt;Uso de la información recogida&lt;/h2&gt;
+&lt;p&gt;Nuestro sitio web emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios, de pedidos en caso que aplique, y mejorar nuestros productos y servicios.  Es posible que sean enviados correos electrónicos periódicamente a través de nuestro sitio con ofertas especiales, nuevos productos y otra información publicitaria que consideremos relevante para usted o que pueda brindarle algún beneficio, estos correos electrónicos serán enviados a la dirección que usted proporcione y podrán ser cancelados en cualquier momento.&lt;/p&gt;
+&lt;p&gt;William Herrera está altamente comprometido para cumplir con el compromiso de mantener su información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista ningún acceso no autorizado.&lt;/p&gt;
+&lt;h2 id=&#34;cookies&#34;&gt;Cookies&lt;/h2&gt;
+&lt;p&gt;Una cookie se refiere a un fichero que es enviado con la finalidad de solicitar permiso para almacenarse en su ordenador, al aceptar dicho fichero se crea y la cookie sirve entonces para tener información respecto al tráfico web, y también facilita las futuras visitas a una web recurrente. Otra función que tienen las cookies es que con ellas las web pueden reconocerte individualmente y por tanto brindarte el mejor servicio personalizado de su web.&lt;/p&gt;
+&lt;p&gt;Nuestro sitio web emplea las cookies para poder identificar las páginas que son visitadas y su frecuencia. Esta información es empleada únicamente para análisis estadístico y después la información se elimina de forma permanente. Usted puede eliminar las cookies en cualquier momento desde su ordenador. Sin embargo las cookies ayudan a proporcionar un mejor servicio de los sitios web, estás no dan acceso a información de su ordenador ni de usted, a menos de que usted así lo quiera y la proporcione directamente, . Usted puede aceptar o negar el uso de cookies, sin embargo la mayoría de navegadores aceptan cookies automáticamente pues sirve para tener un mejor servicio web. También usted puede cambiar la configuración de su ordenador para declinar las cookies. Si se declinan es posible que no pueda utilizar algunos de nuestros servicios.&lt;/p&gt;
+&lt;h2 id=&#34;enlaces-a-terceros&#34;&gt;Enlaces a Terceros&lt;/h2&gt;
+&lt;p&gt;Este sitio web pudiera contener en laces a otros sitios que pudieran ser de su interés. Una vez que usted de clic en estos enlaces y abandone nuestra página, ya no tenemos control sobre al sitio al que es redirigido y por lo tanto no somos responsables de los términos o privacidad ni de la protección de sus datos en esos otros sitios terceros. Dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas.&lt;/p&gt;
+&lt;h2 id=&#34;control-de-su-información-personal&#34;&gt;Control de su información personal&lt;/h2&gt;
+&lt;p&gt;En cualquier momento usted puede restringir la recopilación o el uso de la información personal que es proporcionada a nuestro sitio web.  Cada vez que se le solicite rellenar un formulario, como el de alta de usuario, puede marcar o desmarcar la opción de recibir información por correo electrónico.  En caso de que haya marcado la opción de recibir nuestro boletín o publicidad usted puede cancelarla en cualquier momento.&lt;/p&gt;
+&lt;p&gt;Esta compañía no venderá, cederá ni distribuirá la información personal que es recopilada sin su consentimiento, salvo que sea requerido por un juez con un orden judicial.&lt;/p&gt;
+&lt;p&gt;William Herrera Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.&lt;/p&gt;
+&lt;p&gt;Esta politica de privacidad se han generado en politicadeprivacidadplantilla.com.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Terms</title>
+      <title>Términos y Condiciones de Uso</title>
       <link>/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👥 &lt;a href=&#34;https://spectrum.chat/academic&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/source_themes&#34;&gt;@source_themes&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
-&lt;ul&gt;
-&lt;li&gt;☕️ &lt;a href=&#34;https://paypal.me/cushen&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💵 &lt;a href=&#34;https://www.patreon.com/cushen&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🖼️ &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👕 &lt;a href=&#34;https://academic.threadless.com/&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
-&lt;img data-src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;información-relevante&#34;&gt;INFORMACIÓN RELEVANTE&lt;/h2&gt;
+&lt;p&gt;Es requisito necesario para la adquisición de los productos que se ofrecen en este sitio, que lea y acepte los siguientes Términos y Condiciones que a continuación se redactan. El uso de nuestros servicios así como la compra de nuestros productos implicará que usted ha leído y aceptado los Términos y Condiciones de Uso en el presente documento. Todas los productos  que son ofrecidos por nuestro sitio web pudieran ser creadas, cobradas, enviadas o presentadas por una página web tercera y en tal caso estarían sujetas a sus propios Términos y Condiciones. En algunos casos, para adquirir un producto, será necesario el registro por parte del usuario, con ingreso de datos personales fidedignos y definición de una contraseña.&lt;/p&gt;
+&lt;p&gt;El usuario puede elegir y cambiar la clave para su acceso de administración de la cuenta en cualquier momento, en caso de que se haya registrado y que sea necesario para la compra de alguno de nuestros productos. &lt;a href=&#34;https://whherrera.github.io/&#34;&gt;https://whherrera.github.io/&lt;/a&gt; no asume la responsabilidad en caso de que entregue dicha clave a terceros.&lt;/p&gt;
+&lt;p&gt;Todas las compras y transacciones que se lleven a cabo por medio de este sitio web, están sujetas a un proceso de confirmación y verificación, el cual podría incluir la verificación del stock y disponibilidad de producto, validación de la forma de pago, validación de la factura (en caso de existir) y el cumplimiento de las condiciones requeridas por el medio de pago seleccionado. En algunos casos puede que se requiera una verificación por medio de correo electrónico.&lt;/p&gt;
+&lt;p&gt;Los precios de los productos ofrecidos en esta Tienda Online es válido solamente en las compras realizadas en este sitio web.&lt;/p&gt;
+&lt;h2 id=&#34;licencia&#34;&gt;LICENCIA&lt;/h2&gt;
+&lt;p&gt;William Herrera  a través de su sitio web concede una licencia para que los usuarios utilicen  los documentos que son compartidos en este sitio web de acuerdo a los Términos y Condiciones que se describen en este documento.&lt;/p&gt;
+&lt;h2 id=&#34;uso-no-autorizado&#34;&gt;USO NO AUTORIZADO&lt;/h2&gt;
+&lt;p&gt;En caso de que aplique (para venta de software, templetes, u otro producto de diseño y programación) usted no puede colocar uno de nuestros productos, modificado o sin modificar, en un CD, sitio web o ningún otro medio y ofrecerlos para la redistribución o la reventa de ningún tipo.&lt;/p&gt;
+&lt;h2 id=&#34;propiedad&#34;&gt;PROPIEDAD&lt;/h2&gt;
+&lt;p&gt;Usted no puede declarar propiedad intelectual o exclusiva a ninguno de nuestros productos, modificado o sin modificar. Todos los productos son propiedad  de los proveedores del contenido. En caso de que no se especifique lo contrario, nuestros productos se proporcionan  sin ningún tipo de garantía, expresa o implícita. En ningún esta compañía será  responsables de ningún daño incluyendo, pero no limitado a, daños directos, indirectos, especiales, fortuitos o consecuentes u otras pérdidas resultantes del uso o de la imposibilidad de utilizar nuestros productos.&lt;/p&gt;
+&lt;h2 id=&#34;política-de-reembolso-y-garantía&#34;&gt;POLÍTICA DE REEMBOLSO Y GARANTÍA&lt;/h2&gt;
+&lt;p&gt;En el caso de productos que sean  mercancías irrevocables no-tangibles, no realizamos reembolsos después de que se envíe el producto, usted tiene la responsabilidad de entender antes de comprarlo.  Le pedimos que lea cuidadosamente antes de comprarlo. Hacemos solamente excepciones con esta regla cuando la descripción no se ajusta al producto. Hay algunos productos que pudieran tener garantía y posibilidad de reembolso pero este será especificado al comprar el producto. En tales casos la garantía solo cubrirá fallas de fábrica y sólo se hará efectiva cuando el producto se haya usado correctamente. La garantía no cubre averías o daños ocasionados por uso indebido. Los términos de la garantía están asociados a fallas de fabricación y funcionamiento en condiciones normales de los productos y sólo se harán efectivos estos términos si el equipo ha sido usado correctamente. Esto incluye:&lt;/p&gt;
+&lt;p&gt;– De acuerdo a las especificaciones técnicas indicadas para cada producto.
+– En condiciones ambientales acorde con las especificaciones indicadas por el fabricante.
+– En uso específico para la función con que fue diseñado de fábrica.
+– En condiciones de operación eléctricas acorde con las especificaciones y tolerancias indicadas.&lt;/p&gt;
+&lt;h2 id=&#34;comprobación-antifraude&#34;&gt;COMPROBACIÓN ANTIFRAUDE&lt;/h2&gt;
+&lt;p&gt;La compra del cliente puede ser aplazada para la comprobación antifraude. También puede ser suspendida por más tiempo para una investigación más rigurosa, para evitar transacciones fraudulentas.&lt;/p&gt;
+&lt;h2 id=&#34;privacidad&#34;&gt;PRIVACIDAD&lt;/h2&gt;
+&lt;p&gt;Este &lt;a href=&#34;https://whherrera.github.io/&#34;&gt;https://whherrera.github.io/&lt;/a&gt; garantiza que la información personal que usted envía cuenta con la seguridad necesaria. Los datos ingresados por usuario o en el caso de requerir una validación de los pedidos no serán entregados a terceros, salvo que deba ser revelada en cumplimiento a una orden judicial o requerimientos legales.&lt;/p&gt;
+&lt;p&gt;La suscripción a boletines de correos electrónicos publicitarios es voluntaria y podría ser seleccionada al momento de crear su cuenta.&lt;/p&gt;
+&lt;p&gt;William Herrera reserva los derechos de cambiar o de modificar estos términos sin previo aviso.&lt;/p&gt;
+&lt;p&gt;Estas terminos y condiciones se han generado en terminosycondicionesdeusoejemplo.com.&lt;/p&gt;
 </description>
     </item>
     
@@ -748,67 +497,16 @@ Three
       <guid>/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Haga clic en el botón &lt;em&gt;Citar&lt;/em&gt; arriba para demostrar la función y permitir a los visitantes importar metadatos de publicación en su software de administración de referencia.
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Haga clic en el botón &lt;em&gt;Diapositivas&lt;/em&gt; arriba para mostrar la función de diapositivas de Markdown de Academic.
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Se pueden agregar notas complementarias aquí, incluyendo &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>
-&lt;script src=&#34;/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/elevate-section-attrs/elevate-section-attrs.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -819,15 +517,16 @@ Figure 1: A fancy pie chart.
       <guid>/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Haga clic en el botón &lt;em&gt;Citar&lt;/em&gt; que se encuentra arriba para demostrar la función y permitir a los visitantes importar metadatos de publicación en su software de administración de referencia.
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Haga clic en el botón &lt;em&gt;Diapositivas&lt;/em&gt; arriba para mostrar la función de diapositivas de Markdown de Academic.
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Se pueden agregar notas complementarias aquí, incluyendo &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>吳恩達 | William Herrera</title>
+    <link>/author/%E5%90%B3%E6%81%A9%E9%81%94/</link>
+      <atom:link href="/author/%E5%90%B3%E6%81%A9%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
+    <description>吳恩達</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-es</language><copyright>William Humberto Herrera Rey© 2020</copyright>
+    <image>
+      <url>/images/logo_hu0cd2813fb50df44f61fe159932bf0a87_64960_300x300_fit_lanczos_2.png</url>
+      <title>吳恩達</title>
+      <link>/author/%E5%90%B3%E6%81%A9%E9%81%94/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,51 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TinkerCAD | William Herrera</title>
+    <title>Circuitos Eléctricos - TinkerCAD | William Herrera</title>
     <link>/courses/tinkercad/</link>
       <atom:link href="/courses/tinkercad/index.xml" rel="self" type="application/rss+xml" />
-    <description>TinkerCAD</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-es</language><copyright>William Herrera</copyright><lastBuildDate>Fri, 14 Feb 2020 09:30:00 -0500</lastBuildDate>
+    <description>Circuitos Eléctricos - TinkerCAD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-es</language><copyright>William Humberto Herrera Rey© 2020</copyright><lastBuildDate>Fri, 14 Feb 2020 09:30:00 -0500</lastBuildDate>
     <image>
-      <url>/img/myAvatar.png</url>
-      <title>TinkerCAD</title>
+      <url>/images/logo_hu0cd2813fb50df44f61fe159932bf0a87_64960_300x300_fit_lanczos_2.png</url>
+      <title>Circuitos Eléctricos - TinkerCAD</title>
       <link>/courses/tinkercad/</link>
     </image>
     
     <item>
-      <title>Guía 1</title>
-      <link>/courses/tinkercad/guia1/</link>
+      <title>Guía 2</title>
+      <link>/courses/tinkercad/guia2/</link>
       <pubDate>Fri, 14 Feb 2020 09:30:00 -0500</pubDate>
-      <guid>/courses/tinkercad/guia1/</guid>
-      <description>&lt;p&gt;En esta página se muestra la guía 1 para descargarla o visualizarla según sea el caso.&lt;/p&gt;
-&lt;h2 id=&#34;guía-1&#34;&gt;Guía 1&lt;/h2&gt;
-&lt;p&gt;Descargue la guía 1 y sigas las indicaciones del docente.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.tinkercad.com/&#34;&gt;TinkerCAD&lt;/a&gt;: aplicación necesaria para la realización de los circuitos.&lt;/p&gt;
+      <guid>/courses/tinkercad/guia2/</guid>
+      <description>&lt;p&gt;En esta página se muestra la guía 2 para descargarla o visualizarla según sea el caso.&lt;/p&gt;
+&lt;h2 id=&#34;zona-de-descarga&#34;&gt;Zona de Descarga&lt;/h2&gt;
+&lt;p&gt;Descargue la guía 2 y sigas las indicaciones del docente.Recuerde que la guía está presentada en semanas.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72p-TECNS1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72p-TECNS2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72p-TECNS3.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72p-TECNS4.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72p-TECNS5.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72p-TECNS6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 2 Semana 6&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Anexo 1</title>
-      <link>/courses/tinkercad/anexo1/</link>
+      <title>Guía 3</title>
+      <link>/courses/tinkercad/guia3/</link>
       <pubDate>Fri, 14 Feb 2020 09:30:00 -0500</pubDate>
-      <guid>/courses/tinkercad/anexo1/</guid>
+      <guid>/courses/tinkercad/guia3/</guid>
+      <description>&lt;p&gt;En esta página se muestra la guía 3 para descargarla o visualizarla según sea el caso.&lt;/p&gt;
+&lt;h2 id=&#34;zona-de-descarga&#34;&gt;Zona de Descarga&lt;/h2&gt;
+&lt;p&gt;Descargue la guía 3 y sigas las indicaciones del docente.Recuerde que la guía está presentada en semanas.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/73p-TECNS1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 3 Semana 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/73p-TECNS2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía 3 Semana 2&lt;/a&gt;&lt;/p&gt;
+&lt;!--[Guía 3 Semana 3](https://whherrera.github.io/courses/tinkercad/73p-TECNS3.pdf)--&gt;
+&lt;!--[Guía 3 Semana 4](https://whherrera.github.io/courses/tinkercad/73p-TECNS4.pdf)--&gt;
+&lt;!--[Guía 3 Semana 5](https://whherrera.github.io/courses/tinkercad/73p-TECNS5.pdf)--&gt;
+&lt;!--[Guía 3 Semana 6](https://whherrera.github.io/courses/tinkercad/73p-TECNS6.pdf)--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Guía 2 — Anexo 1</title>
+      <link>/courses/tinkercad/guia2anexo1/</link>
+      <pubDate>Fri, 14 Feb 2020 09:30:00 -0500</pubDate>
+      <guid>/courses/tinkercad/guia2anexo1/</guid>
       <description>&lt;p&gt;En esta página se muestra el Anexo 1 para descargarlo o visualizarla según sea el caso.&lt;/p&gt;
-&lt;h2 id=&#34;anexo-1&#34;&gt;Anexo 1&lt;/h2&gt;
+&lt;h2 id=&#34;zona-de-descarga&#34;&gt;Zona de Descarga&lt;/h2&gt;
 &lt;p&gt;Descargue el Anexo 1 y sigas las indicaciones del docente.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72pAnexo1TECNV1.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72pAnexo1TECNV1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anexo 1&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Anexo 2</title>
-      <link>/courses/tinkercad/anexo2/</link>
+      <title>Guía 2 — Anexo 2</title>
+      <link>/courses/tinkercad/guia2anexo2/</link>
       <pubDate>Fri, 14 Feb 2020 09:30:00 -0500</pubDate>
-      <guid>/courses/tinkercad/anexo2/</guid>
+      <guid>/courses/tinkercad/guia2anexo2/</guid>
       <description>&lt;p&gt;En esta página se muestra el Anexo 2 para descargarlo o visualizarla según sea el caso.&lt;/p&gt;
-&lt;h2 id=&#34;anexo-2---taller-1&#34;&gt;Anexo 2 - Taller 1&lt;/h2&gt;
-&lt;p&gt;Descargue el Anexo 1 y sigas las indicaciones del docente.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72pA2T1v1R.pdf&#34;&gt;Descargue aquí&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;zona-de-descarga&#34;&gt;Zona de Descarga&lt;/h2&gt;
+&lt;p&gt;Descargue el Anexo 2 y sigas las indicaciones del docente.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72pA2T1v1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taller de Aplicación 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://whherrera.github.io/courses/tinkercad/72pA2T2v1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taller de Aplicación 2&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

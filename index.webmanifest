@@ -2,14 +2,14 @@
   "name": "William Herrera",
   "short_name": "William Herrera",
   "lang": "es-es",
-  "theme_color": "rgb(217, 129, 98)",
-  "background_color": "rgb(217, 129, 98)",
+  "theme_color": "rgb(56, 109, 115)",
+  "background_color": "rgb(56, 109, 115)",
   "icons": [{
-    "src": "../img/icon-192.png",
+    "src": "/images/icon_hu0cd2813fb50df44f61fe159932bf0a87_64960_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "../img/icon-512.png",
+    "src": "/images/icon_hu0cd2813fb50df44f61fe159932bf0a87_64960_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
